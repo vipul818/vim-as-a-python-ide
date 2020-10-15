@@ -34,7 +34,7 @@ def life_syntax_checking():
     # Now fix all reported issues!
     # You can move down into the Quickfix window witch ``<C-j>``
     # You can navigate up and down in that window with ``j`` and ``k``
-
+   
     # When you press enter, you will get back into this window at the correct
     # line
 
@@ -45,7 +45,7 @@ def code_completion():
     # i.e.: Type ``li`` and then press ``<C-SPACE>``
     # You can navigate between then found choices by holding ``CTRL`` and using
     # ``j`` and ``k``
-
+    #we wil try to complement the code
     # Try to import something from utils
     # i.e. Type ``from utils import`` and then press ``<C-SPACE>``
 
